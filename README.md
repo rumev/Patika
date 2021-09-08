@@ -1,2 +1,2 @@
 # Patika
- Patika Assignments
+ Patika Java101 Assignments
